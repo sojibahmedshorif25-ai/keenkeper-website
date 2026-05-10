@@ -1,16 +1,40 @@
-# React + Vite
+# Keen Keeper - Project Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Keen Keeper**, a web application built to help users manage and organize their tasks efficiently. This project is part of my learning journey in web development.
 
-Currently, two official plugins are available:
+## 🚀 Features
+*   **User Friendly UI:** Simple and clean interface.
+*   **Task Management:** Easily add, edit, or delete tasks.
+*   **Responsive Design:** Works perfectly on both desktop and mobile devices.
+*   **Interactive Components:** Built with modern React components.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Technologies Used
+*   **Frontend:** React.js, Tailwind CSS
+*   **Tools:** Vite, Git, GitHub
+*   **Deployment:** Vercel / Firebase (Mention yours)
 
-## React Compiler
+## 📦 Installation & Setup
+To run this project locally, follow these steps:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+1. Clone the repository:
+   ```bash
+   git clone https://github.com
+   ```
+2. Navigate to the folder:
+   ```bash
+   cd B13-A7-keen-keeper
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
 
-## Expanding the ESLint configuration
+## 🤝 Contributing
+Feel free to fork this project and submit pull requests. Any suggestions for improvement are welcome!
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+Developed by **Sojib Ahmed Shorif**
